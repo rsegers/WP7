@@ -6386,4 +6386,4 @@ window.cordova = require('cordova');
 }(window));
 
 
-})();var PhoneGap = cordova;
+})();
